@@ -1,0 +1,24 @@
+.container{
+	background-color: chocolate;
+}
+body{
+	background-color: darkcyan;
+}
+.text{
+	text-align: center;
+	font-weight: bolder;
+}
+.search{
+	width: 417px;
+    margin: 0 auto;
+}
+#card{
+	background-color: #230312;
+}
+.card-title{
+	color: #230312;
+	text-align: center;
+}
+.container h1{
+	text-align: center;
+}
